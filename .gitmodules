@@ -1,0 +1,12 @@
+[submodule "wet-boew"]
+	path = wet-boew
+	url = https://github.com/wet-boew/wet-boew-dist.git
+[submodule "v3.0-ci"]
+	path = v3.0-ci
+	url = https://github.com/wet-boew/wet-boew-dist.git
+[submodule "v3.0.7"]
+	path = v3.0.7
+	url = https://github.com/wet-boew/wet-boew-dist.git
+[submodule "v3.1.1"]
+	path = v3.1.1
+	url = https://github.com/wet-boew/wet-boew-dist.git
