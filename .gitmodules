@@ -13,3 +13,6 @@
 [submodule "v4.0-ci"]
 	path = v4.0-ci
 	url = https://github.com/wet-boew/wet-boew-dist.git
+[submodule "codefest2.0"]
+	path = codefest2.0
+	url = https://github.com/wet-boew/codefest.git
