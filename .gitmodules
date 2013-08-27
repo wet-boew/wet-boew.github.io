@@ -43,3 +43,6 @@
 [submodule "v3.0.2"]
 	path = v3.0.2
 	url = https://github.com/wet-boew/wet-boew.git
+[submodule "v3.0.1"]
+	path = v3.0.1
+	url = https://github.com/wet-boew/wet-boew.git
