@@ -22,3 +22,6 @@
 [submodule "v3.1.0"]
 	path = v3.1.0
 	url = https://github.com/wet-boew/wet-boew-dist.git
+[submodule "v3.0.8"]
+	path = v3.0.8
+	url = https://github.com/wet-boew/wet-boew-dist.git
