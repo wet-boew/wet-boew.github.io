@@ -31,6 +31,9 @@
 [submodule "v3.0.10"]
 	path = v3.0.10
 	url = http://github.com/wet-boew/wet-boew-dist.git
+[submodule "v3.0.11"]
+	path = v3.0.11
+	url = https://github.com/wet-boew/wet-boew-dist.git
 [submodule "v3.0-ci"]
 	path = v3.0-ci
 	url = https://github.com/wet-boew/wet-boew-dist.git
