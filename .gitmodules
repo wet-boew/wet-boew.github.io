@@ -56,6 +56,9 @@
 [submodule "v3.1.4"]
 	path = v3.1.4
 	url = http://github.com/wet-boew/wet-boew-dist.git
+[submodule "v3.1.5"]
+	path = v3.1.5
+	url = https://github.com/wet-boew/wet-boew-dist.git
 
 [submodule "v4.0-ci"]
 	path = v4.0-ci
