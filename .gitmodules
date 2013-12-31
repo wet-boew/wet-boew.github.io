@@ -19,3 +19,6 @@
 [submodule "v4.0-ci"]
 	path = v4.0-ci
 	url = https://github.com/wet-boew/wet-boew-dist.git
+[submodule "3.0"]
+	path = 3.0
+	url = https://github.com/wet-boew/wet-boew-dist.git
