@@ -8,6 +8,9 @@
 	path = v3.0-ci
 	url = https://github.com/wet-boew/wet-boew-dist.git
 
+[submodule "3.1"]
+	path = 3.1
+	url = https://github.com/wet-boew/wet-boew-dist.git
 [submodule "v3.1.5"]
 	path = v3.1.5
 	url = https://github.com/wet-boew/wet-boew-dist.git
