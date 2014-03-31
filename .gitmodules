@@ -10,6 +10,10 @@
 	path = 4.0
 	url = https://github.com/wet-boew/wet-boew-dist.git
 
+[submodule "v3.1-ci"]
+	path = v3.1-ci
+	url = https://github.com/wet-boew/wet-boew-dist.git
+
 [submodule "wet-boew"]
 	path = wet-boew
 	url = https://github.com/wet-boew/wet-boew-dist.git
