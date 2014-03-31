@@ -15,11 +15,6 @@
 	url = https://github.com/wet-boew/wet-boew-dist.git
 	branch = master-dist
 
-[submodule "v3.0-ci"]
-	path = v3.0-ci
-	url = https://github.com/wet-boew/wet-boew-dist.git
-	branch = v3.0-dist
-
 [submodule "v4.0-ci"]
 	path = v4.0-ci
 	url = https://github.com/wet-boew/wet-boew-dist.git
